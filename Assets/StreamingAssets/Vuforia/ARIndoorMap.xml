@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="meidiciRestArea" size="0.388143 0.275960" />
+    <ImageTarget name="mediciRoma" size="0.403489 0.293158" />
+    <ImageTarget name="mediciOffice" size="0.347927 0.241829" />
+    <ImageTarget name="medici" size="0.406400 0.228600" />
+    <ImageTarget name="mediciLobby" size="0.270668 0.188832" />
+  </Tracking>
+</QCARConfig>

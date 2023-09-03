@@ -1,0 +1,130 @@
+{
+	"TargetList": [
+		{
+			"Name": "Nothing",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Roma",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -1.38,
+				"y": 0.00,
+				"z": 1.54
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Napoli",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 6.85,
+				"y": 0.00,
+				"z": 1.54
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Venecia",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -1.82,
+				"y": 0.00,
+				"z": -7.36
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Medici",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 14.0,
+				"y": 0.00,
+				"z": -10.37
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Firenze",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 23.29,
+				"y": 0.00,
+				"z": -7.19
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Milano",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 23.29,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Rest area",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 23.29,
+				"y": 0.00,
+				"z": 4.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 17.23,
+				"y": 0.00,
+				"z": -3.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
